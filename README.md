@@ -1,4 +1,7 @@
-# 💤 LazyVim
+# Neovim Config
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+LazyVim-based config with:
+
+- Catppuccin theme (transparent)
+- Python tooling (pyright, ruff, black)
+- Claude Code integration (`<leader>ac`)
